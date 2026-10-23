@@ -5,7 +5,7 @@
     <img alt="GraphARC" src="docs/brand/grapharc-logo-light.svg" width="440">
   </picture>
 </p>
-
+ 
 # GraphARC
 
 [![PyPI](https://img.shields.io/pypi/v/grapharc.svg)](https://pypi.org/project/grapharc/)
